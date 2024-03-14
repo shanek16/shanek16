@@ -29,6 +29,18 @@
 </details>
 
 <details>
+<summary><b>Robust Deep Reinforcement Learning against GPS noise of UAVs</b></summary>
+<p>
+
+- [Paper](https://drive.google.com/file/d/1aoK4aK5rT00c-rWCCL4XE8E66sZVkLxg/view?usp=drive_link)
+- [Code](https://github.com/shanek16/robust_uav.git)
+  
+![perturbed_uav](https://github.com/shanek16/shanek16/assets/53452585/70a129b2-c3b9-469e-8e27-7422bca420d5)
+
+</p>
+</details>
+
+<details>
 <summary><b>Collecart</b></summary>
 <p>
 
