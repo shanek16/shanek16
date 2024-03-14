@@ -55,7 +55,8 @@
 <details>
 <summary><b>Autonomous Walking Robot</b></summary>
 <p>
-
+  
+- [Paper](https://drive.google.com/file/d/13o_adxYhClRU61lf2D9jQYZgtRYDqJwy/view?usp=sharing)
 - **Code:**
   - **Command Center:** [edison repository](https://github.com/shanek16/edison)
   - **Agent:** [edison-pi repository](https://github.com/shanek16/edison-pi)
@@ -63,6 +64,21 @@
 </p>
 <p align="center">
 <img src="https://github.com/shanek16/shanek16/assets/53452585/4f11a898-ef92-4531-8195-459c92884d37" alt="walking robot"/>
+</p>
+</details>
+
+<details>
+<summary><b>Dececentralized Controllers for Robot Swarms with Graph Neural Networks imitating bee swarm</b></summary>
+<p>
+
+- **Code:**
+  - **UAV environment:** [UAV env](https://github.com/shanek16/GNN-envs)
+  - **UAV controller:** [UAV controller](https://github.com/shanek16/GNN-controller)
+- [**Poster:**](https://drive.google.com/file/d/1rG9QlQdTtvMT6x7EcYzH-iRYh5qlmxnM/view?usp=sharing)
+  
+</p>
+<p align="center">
+<img src="https://github.com/shanek16/shanek16/assets/53452585/4c6d5f2c-cd55-47ca-a4e1-b5cf5d903918" alt="UAV swarm"/>
 </p>
 </details>
 
