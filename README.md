@@ -1,18 +1,46 @@
 <h1 align="center">Hi 👋, I'm Sungweon Kim</h1>
-<h3 align="center">A passionate Machine learning & Control engineer from Korea</h3>
+<p align="center">A passionate Machine learning & Control engineer from Korea</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shanek16/shanek16.git](https://github.com/shanek16/shanek16.git)
+## 👨‍💻 Projects:
 
-- 📫 How to reach me **sungweonkim@yonsei.ac.kr**
+<details>
+<summary><b>Hierarchical approach for the coordination of fixed-wing UAVs in persistent surveillance with an integrated recharging strategy</b></summary>
+<p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CPJYLPUKBgQrKlFZJ985gZSLoIQbMN65/view?usp=drive_link)
+- [Paper](https://library.yonsei.ac.kr/search/detail/CATTOT000002188560)
+- [Code](https://github.com/shanek16/uav_dp)
+- [Poster](https://drive.google.com/file/d/1X4i2xcOs2bXrfLCW8eWpAm27krkRvSFC/view?usp=sharing)
+  
+![Methods for UAV coordination](https://github.com/shanek16/shanek16/assets/53452585/e962b4ba-4a2d-4e4c-aae0-9d2a5112320e)
 
-<h3 align="left">Connect with me:</h3>
+</p>
+</details>
+
+<details>
+<summary><b>Warning Algorithm Using Only RGB Camera for Safety</b></summary>
+<p>
+
+- [Paper](https://drive.google.com/file/d/1DFC-vZNaUGjBygZxXL2X6MPzoz2KdHyE/view?usp=sharing)
+- [Code](https://github.com/shanek16/ultralytics)
+  
+![RGB Camera Warning System](https://github.com/shanek16/shanek16/assets/53452585/0d60bd55-7f58-43f8-9c78-a4bf460571c8)
+
+</p>
+</details>
+
+## 📄 Know about my experiences
+- [Resume](https://drive.google.com/file/d/1xcIvRi8lYVps8c29hYBMOA3zDU35XU71/view?usp=sharing)
+
+## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/tobeupdated" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobeupdated" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tobeupdated" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobeupdated" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**sungweonkim@yonsei.ac.kr**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanek16&show_icons=true&locale=en&layout=compact" alt="shanek16" /></p>
+## Languages and Tools:
+<p align="left"> 
+  <!-- List of icons -->
+</p>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=shanek16&show_icons=true&locale=en&layout=compact)
