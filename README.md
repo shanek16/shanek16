@@ -31,33 +31,38 @@
 <details>
 <summary><b>Collecart</b></summary>
 <p>
-![collecart](https://github.com/shanek16/shanek16/assets/53452585/5ae50ac5-588a-47b0-8985-79f6ae38a4e5)
-
 
 - **Code:** [collecart repository](https://github.com/shanek16/collecart)
 
+</p>
+<p align="center">
+<img src="https://github.com/shanek16/shanek16/assets/53452585/5ae50ac5-588a-47b0-8985-79f6ae38a4e5" alt="collecart"/>
 </p>
 </details>
 
 <details>
 <summary><b>Autonomous Walking Robot</b></summary>
 <p>
-![walking robot](https://github.com/shanek16/shanek16/assets/53452585/4f11a898-ef92-4531-8195-459c92884d37)
 
 - **Code:**
   - **Command Center:** [edison repository](https://github.com/shanek16/edison)
   - **Agent:** [edison-pi repository](https://github.com/shanek16/edison-pi)
 
 </p>
+<p align="center">
+<img src="https://github.com/shanek16/shanek16/assets/53452585/4f11a898-ef92-4531-8195-459c92884d37" alt="walking robot"/>
+</p>
 </details>
 
 <details>
 <summary><b>4 DoF Robot Arm</b></summary>
 <p>
-![robot arm](https://github.com/shanek16/shanek16/assets/53452585/a08445ec-652c-468c-ab09-b83e62f5a06f)
 
 - **Code:** [robot-arm repository](https://github.com/shanek16/robot-arm)
 
+</p>
+<p align="center">
+<img src="https://github.com/shanek16/shanek16/assets/53452585/a08445ec-652c-468c-ab09-b83e62f5a06f" alt="robot arm"/>
 </p>
 </details>
 
