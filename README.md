@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><b>Dececentralized Controllers for Robot Swarms with Graph Neural Networks imitating bee swarm</b></summary>
+<summary><b>Decentralized Controllers for Robot Swarms with Graph Neural Networks imitating bee swarm</b></summary>
 <p>
 
 - **Code:**
