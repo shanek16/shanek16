@@ -95,7 +95,7 @@
 </details>
 
 ## 📄 Know about my experiences
-- [Resume](https://drive.google.com/file/d/1gRDCO1UiUQBkJJK2olJyocLsTcFxK47m/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/19gjr9xBXkvAFqZSWZE-AMxz31tpuFVP_/view?usp=drive_link)
 
 ## Connect with me:
 <p align="left">
